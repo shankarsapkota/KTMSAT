@@ -1,5 +1,8 @@
 
 
+
+<!DOCTYPE html>
+<html lang="en-US">
   <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -99,7 +102,7 @@
         <span class="ribbon-outer">
           <span class="ribbon-inner">
             
-              <p>Website Maintained under  <a href="https://hackwithshankar.blogspot.com">shnkyr </a> </p>
+              <p>Website Maintained under  <a href="https://github.com/shnkyr">shnkyr </a> </p>
             
             
           </span>
@@ -110,6 +113,10 @@
         <span class="octocat"></span>
       </footer>
     </div>
+
+    
+  </body>
+</html>
 
     
 
