@@ -1,18 +1,49 @@
 
 
 
+
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
-    <meta charset='utf-8'>
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>KTMSAT | Kathmandu Satellite Homepage and Updates</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="KTMSAT" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Kathmandu Satellite Homepage and Updates" />
+<meta property="og:description" content="Kathmandu Satellite Homepage and Updates" />
+<link rel="canonical" href="https://shnkyr.github.io/KTMSAT/" />
+<meta property="og:url" content="https://shnkyr.github.io/KTMSAT/" />
+<meta property="og:site_name" content="KTMSAT" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"KTMSAT","url":"https://shnkyr.github.io/KTMSAT/","name":"KTMSAT","description":"Kathmandu Satellite Homepage and Updates","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/KTMSAT/assets/css/style.css?v=a1a8df5421464e40f8f4e6225af09788517f449e">
+  </head>
+  <body>
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1><a href="https://shnkyr.github.io/KTMSAT/">KTMSAT</a></h1>
+      
+
+      
+<p>&lt;!DOCTYPE html&gt;</p>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   
 	
-    <link rel="stylesheet" href="style.css" >
+    <link rel="stylesheet" href="style.css" />
 	
-    <link rel="stylesheet" href="mobile.css" media="handled, only in screen and(max-device-width:650px)">
+    <link rel="stylesheet" href="mobile.css" media="handled, only in screen and(max-device-width:650px)" />
 	
-    <link rel="stylesheet" href="non-screen.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="non-screen.css" media="handheld, only screen and (max-device-width:640px)" />
 
     <script src="./js/modernizr.js"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
@@ -43,7 +74,7 @@
     
     <div class="shell">
  
-  </a>
+  &lt;/a&gt;
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
@@ -91,7 +122,7 @@
     </div>
  
     <div class="temperature-description">
-        Please Enable Location Access<br><br><hr><hr>
+        Please Enable Location Access<br /><br /><hr /><hr />
    
    
 </div>
@@ -115,8 +146,18 @@
     </div>
 
     
-  </body>
-</html>
+  &lt;/body&gt;
+&lt;/html&gt;
 
     
 
+</div></body></html>
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+    
+  </body>
+</html>
