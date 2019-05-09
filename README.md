@@ -1,0 +1,118 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+	
+    <link rel="stylesheet" href="style.css" >
+	
+    <link rel="stylesheet" href="mobile.css" media="handled, only in screen and(max-device-width:650px)">
+	
+    <link rel="stylesheet" href="non-screen.css" media="handheld, only screen and (max-device-width:640px)">
+
+    <script src="./js/modernizr.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="./js/headsmart.min.js"></script>
+    <script>
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+
+<!-- Begin Jekyll SEO tag v2.5.0 -->
+<title>Welcome to KATHMANDU SATELLITE | KTMSAT</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="Welcome to KATHMANDU SATELLITE" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Kathmandu Satellite Homepage and Updates" />
+<meta property="og:description" content="Kathmandu Satellite Homepage and Updates" />
+<link rel="canonical" href="https://shnkyr.github.io/KTMSAT/" />
+<meta property="og:url" content="https://shnkyr.github.io/KTMSAT/" />
+<meta property="og:site_name" content="KTMSAT" />
+<script type="application/ld+json">
+{"@type":"WebSite","headline":"Welcome to KATHMANDU SATELLITE","url":"https://shnkyr.github.io/KTMSAT/","name":"KTMSAT","description":"Kathmandu Satellite Homepage and Updates","@context":"http://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+    
+    <div class="shell">
+ 
+  </a>
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>KTMSAT</h1>
+            <h2>Kathmandu Satellite Homepage and Updates</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      
+        <div id="no-downloads">
+          <span class="inner">
+          </span>
+        </div>
+      
+	  
+	  
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        
+
+
+      </section>
+	      <center><h1> Welcome to KATHMANDU SATELLITE HOMEPAGE</h1></center>
+		  
+	  
+	  
+	    <meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="stylesheet" type="text/css" media="screen" href="style1.css" />
+    <script src="up.js"></script>
+    <script src="down.js"></script>
+
+   <div class="location">
+        <h1 class="location-timezone"> -----</h1>
+        <canvas class="icon" width="128" height="128"></canvas>
+    </div>
+    <div class="temperature">
+        <div class="degree-section">
+        <h2 class="temperature-degree">-- </h2>
+            <span>C</span>
+    </div>
+ 
+    <div class="temperature-description">
+        Please Enable Location Access<br><br><hr><hr>
+   
+   
+</div>
+    
+
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            
+              <p>Website Maintained under  <a href="https://github.com/shnkyr">shnkyr </a> </p>
+            
+            
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>© Shankar Sapkota</p>
+        <span class="octocat"></span>
+      </footer>
+    </div>
+
+    
+  </body>
+</html>
+
